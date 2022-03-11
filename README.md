@@ -1,5 +1,5 @@
 
-# Getting Started with Calculator-M.Haris
+# Getting Started with Calculator-APIMatic
 
 ## Introduction
 
